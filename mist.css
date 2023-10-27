@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: yellowgreen;
+    width: 100%;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: beige;
+    color: blue;
+    text-align: center;
+    padding: 8px 12px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.img-16{
+    width: 1000px                                                                                                                                                                                                                                                                                                                                                                         px;
+}
+.text-box{
+    width: 90%;
+    color: yellowgreen;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: right;
+}
+.text-box h1{
+    font-size: 62px;
+}
+.testimonials{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+}
+.Models{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+
+}
+.pricing{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+
+}
+.Contact{
+    width: 80%;
+    margin: auto;
+    padding-top: 100px;
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+}
